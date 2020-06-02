@@ -1,0 +1,67 @@
+body {
+    padding-bottom: 20px;
+}
+
+.container {
+    width: 90%;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+#logo {
+    height: 15rem;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: black;
+    background-color: black;
+}
+
+#bestseller {
+    height: 17rem;
+    width: 20rem;
+}
+
+#hours {
+    height: 17rem;
+    width: 20rem;
+}
+
+#faq {
+    height: 17rem;
+    width: 20rem;
+}
+
+.home-headline {
+    font-size: 24px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    margin-top: 13px;
+}
+
+.home-headline span {
+    background-color: #231F20;
+    padding: 5px 20px;
+}
+
+div#featured-books div div div div img {
+    margin-top: 1rem;
+    height: 15rem;
+    width: 11rem;
+}
+
+.navbar-form {
+    margin-top: 5px;
+}
+
+#nav-right li a {
+    margin: auto 10px;
+    color: white;
+    text-decoration: none;
+}
+
